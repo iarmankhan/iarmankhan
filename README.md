@@ -32,6 +32,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
+    <code><img title="Typescript" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/typescript.svg"></code>
     <code><img title="Javascript" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/javascript.svg"></code>
     <code><img title="Python" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/python-original.svg"></code>
     <code><img title="Django" height="25" src="https://github.com/iarmankhan/iarmankhan/blob/master/assets/django.png"></code>
