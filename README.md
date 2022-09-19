@@ -28,6 +28,12 @@
 </p>
 <br>
 
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=iarmankhan&label=Profile%20views&color=0e75b6&style=plastic" alt="iarmankhan" /> 
+</p>
+
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
