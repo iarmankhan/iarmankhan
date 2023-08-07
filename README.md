@@ -16,7 +16,7 @@
   Hi, I'm Arman Khan, Fullstack Engineer & UI designer from India
   <br>
   <br>
-  🔬 I'm currently working as a Frontend Engineer at a startup
+  🔬 I'm currently working as a Full stack Engineer at a startup
   <br>
   💻 I love writing code and learn anythings about it
   <br>
