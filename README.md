@@ -9,7 +9,7 @@ Principal Engineer at [Somethings](https://somethings.com), working on teen ment
 - Building agentic AI systems at Somethings
 - Reading about system design and distributed systems
 - Trying to be more active on [X](https://x.com/ArmansCode) (failing)
-- Maintaining [armankhan.dev](https://armankhan.dev) (sometimes)
+- Maintaining [arman.wtf](https://arman.wtf) (sometimes)
 
 #### Stack
 
@@ -19,4 +19,4 @@ Ask me about agentic AI, scaling early-stage products, or how to ship fast witho
 
 #### Elsewhere
 
-[armankhan.dev](https://armankhan.dev) · [X](https://x.com/ArmansCode) · [LinkedIn](https://linkedin.com/in/iarmankhan) · [Email](mailto:work.armankhan@gmail.com)
+[arman.wtf](https://arman.wtf) · [X](https://x.com/ArmansCode) · [LinkedIn](https://linkedin.com/in/iarmankhan) · [Email](mailto:work.armankhan@gmail.com)
