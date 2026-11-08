@@ -1,11 +1,11 @@
 # Arman Khan
 
-Principal and founding engineer at [Somethings](https://somethings.com). I build backend platforms, full stack products and production AI workflows. I also run [Plixy.tech](https://plixy.tech).
+Principal and founding engineer at [Somethings](https://somethings.com). I helped build its mobile app, backend and staff dashboards from inception. I proposed and built the NestJS foundation now used for all new backend development across the engineering team, and I ship production AI for staff workflows. I also run [Plixy.tech](https://plixy.tech).
 
 ## Selected work
 
-- **Backend platform at Somethings:** proposed and built the foundation for an incremental NestJS migration, including observability, authorization and audit tooling. [Read the case study](https://arman.wtf/work/backend-platform).
-- **Production AI at Somethings:** built staff-facing natural-language data queries and context-aware reply suggestions. [Read the case study](https://arman.wtf/work/production-ai).
+- **Backend platform at Somethings:** built logging, tracing, policy checks, audit logging and granular access control for the new NestJS architecture adopted across engineering. [Read the case study](https://arman.wtf/work/backend-platform).
+- **Production AI at Somethings:** shipped staff-facing natural-language data queries and personalized, tone-matched reply suggestions. [Read the case study](https://arman.wtf/work/production-ai).
 
 ## Public code
 
